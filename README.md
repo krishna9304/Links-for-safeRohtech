@@ -35,6 +35,7 @@ To start the [User application](https://road-rakshak.vercel.app) on your local m
 
 You could simply clone the repository.
 To clone the repository you need to run
+
     $ git clone https://github.com/krishna9304/road-rakshak.git
 
 > :warning: You will need git cli to clone from terminal
@@ -82,8 +83,8 @@ To start the `REACT SERVER`, run
 To start the Android application on your local machine you need to extract from the zip file that I submitted in the submission form.
 > Github does not allow large applications to be pushed, Sorry.
 
-After extracting from the zip open the folder and navigate to `ROADRAKSHAK` folder inside it.
-Open `ROADRAKSHAK` in terminal.
+After extracting from the zip open the folder and navigate to `roadrakshak-android` folder inside it.
+Open `roadrakshak-android` in terminal.
 
 Now you need to install the node modules, to do so run
 
@@ -98,3 +99,6 @@ To start the `ANDROID DEBUG SESSION` on your android device, run
 
 >:warning: You might want to add your own MAPBOX access token. As there is a limit on the free token we are using for the MAPBOX android SDK and might be deactivated by mapbox at any time.
 >More info on [Mapbox Access Token](https://docs.mapbox.com/help/getting-started/access-tokens/)
+
+For any queries contact me
+📧email: krishhtrishh9304@gmail.com
